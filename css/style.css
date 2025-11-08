@@ -228,7 +228,6 @@ body{
 #test .test_details .img_details strong{
     display: block;
     font-family: var(--first-family);
-    margin-bottom: 15px;
 }
 /* testimonials section styles ends here */
 /* bottom section styles start here */
